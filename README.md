@@ -1,5 +1,9 @@
 # TicTacToe
 **Simple game built it by HTML CSS JavaScript**
 
-**For now you can download the game and try it**
+**just click on the link and try the game**
+
+
+[GameLink](https://mohamadnoor991.github.io/TicTacToe/)
+
 ![game image](https://github.com/mohamadnoor991/TicTacToe/blob/main/Tic.png)
